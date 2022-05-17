@@ -60,11 +60,10 @@
 
 ![image](https://user-images.githubusercontent.com/57432440/168850968-60169678-d452-4a5b-8463-f3b0d7767bc4.png)
 
-
 ​
 
 6. 참고문헌 및 자료 (멀티미디어 학회 양식 참고)
 
- [1]
+[1]
 
- [2] 
+[2] 
