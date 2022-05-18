@@ -62,6 +62,7 @@
 <img width="60%" alt="예상 결과" src="https://user-images.githubusercontent.com/57432440/169043809-b33ccd07-c1bb-4083-80d4-d13468dc9f42.png">
 
 2) 기대효과 및 활용방안
+- 
 
 ​
 
