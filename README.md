@@ -62,7 +62,7 @@
 <img width="60%" alt="예상 결과" src="https://user-images.githubusercontent.com/57432440/169043809-b33ccd07-c1bb-4083-80d4-d13468dc9f42.png">
 
 2) 기대효과 및 활용방안
-- 
+-  
 
 ​
 
@@ -73,6 +73,6 @@
 
 ### 참고문헌 및 자료 (멀티미디어 학회 양식 참고)
 
-[1]
+[1] T.H. Lee, J.S. Han, and H.M. Park, "Implementation  of  a  Photo-Input  Game  Interface Using  Image  Search," KIISE Transactions on Computing Practices, Vol.21, No.10, pp. 658~669, 2015
 
 [2] 
