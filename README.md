@@ -81,3 +81,7 @@
 [1] T.H. Lee, J.S. Han, and H.M. Park, "Implementation  of  a  Photo-Input  Game  Interface Using  Image  Search," KIISE Transactions on Computing Practices, Vol.21, No.10, pp. 658~669, 2015
 
 [2] S.A. Lee, J.H. Lee, and K.M. Lee, "Computer-based paper-folding game for improving children's creative ability," Korean Society For Computer Game, Vol.29, No.3, pp. 49~57, 2016
+
+
+### 영상 링크
+https://youtu.be/uzfYQNq-klI
